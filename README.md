@@ -8,7 +8,7 @@ HTML
 ![HTML screenshot](/screenshots/1.png)
 
 PHP
-![PHP screenshot](/screenshots/3.png)
+![PHP screenshot](/screenshots/2.png)
 
 JS
 ![JS screenshot](/screenshots/3.png)
