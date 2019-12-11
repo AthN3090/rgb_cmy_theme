@@ -1,0 +1,16 @@
+{
+    "name":"athn.rgbcmycode",
+    "title": "rgb cmy theme",
+    "description":"Give your code the colours of the Matrix. This theme consists of basic colours of the rgb model   *warning: high contrast*",
+    "homepage":"https://github.com/athn3090/rgb_cmy_theme",
+    "version":"1.0.0",
+    "author":"Aman amandevrishi12@gmail.com",
+    "license":"MIT",
+    "theme":{
+        "file":"theme.less",
+        "dark":true,
+        "addModeClass":true
+    },
+    "keywords":["rgb","cmy","matrix","athn"]
+    
+}
